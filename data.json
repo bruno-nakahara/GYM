@@ -1,0 +1,49 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://google.com",
+      "name": "Bruno",
+      "gender": "M",
+      "birth": 981072000000,
+      "services": "crossfit,musculação",
+      "created_at": 1595430748365,
+      "id": 1
+    },
+    {
+      "avatar_url": "http://google.com",
+      "name": "Bruna Silva",
+      "gender": "F",
+      "birth": 978307200000,
+      "services": "crossfit",
+      "created_at": 1595430811722,
+      "id": 2
+    },
+    {
+      "avatar_url": "http://google.com",
+      "name": "Bruno Nakahara",
+      "gender": "M",
+      "birth": 817603200000,
+      "services": "Musculação, Natação",
+      "created_at": 1595526441102,
+      "id": 3
+    },
+    {
+      "avatar_url": "https://source.unsplash.com/collection/1602384/900x900",
+      "name": "Bruno Nakahara",
+      "gender": "M",
+      "birth": 801187200000,
+      "services": "crossfit,musculação",
+      "created_at": 1595526571491,
+      "id": 4
+    },
+    {
+      "avatar_url": "http://google.com",
+      "name": "Bruno",
+      "gender": "M",
+      "birth": 949363200000,
+      "services": "crossfit",
+      "created_at": 1595532672027,
+      "id": 5
+    }
+  ]
+}
